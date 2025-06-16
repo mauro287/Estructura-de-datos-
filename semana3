@@ -1,0 +1,44 @@
+using System;
+using RegistroEstudiantes; // Make sure to include your namespace
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("--- Registro de Estudiantes (Usando Array Fijo) ---");
+
+        // Declarar un array para 2 estudiantes
+        Estudiante[] listaEstudiantesArray = new Estudiante[2];
+
+        // Crear y asignar el primer estudiante
+        listaEstudiantesArray[0] = new Estudiante(
+            101,
+            "Juan",
+            "Pérez",
+            "Av. Siempre Viva 123",
+            "0987654321",
+            "0991234567",
+            "022112233"
+        );
+
+        // Crear y asignar el segundo estudiante
+        listaEstudiantesArray[1] = new Estudiante(
+            102,
+            "María",
+            "González",
+            "Calle Falsa 456",
+            "0976543210",
+            "0965432109",
+            "022987654"
+        );
+
+        // Mostrar la información de cada estudiante en el array
+        foreach (Estudiante est in listaEstudiantesArray)
+        {
+            est.MostrarInformacion();
+        }
+
+        // Acceder a un estudiante específico y su información
+        Console.WriteLine($"\nPrimer teléfono de {listaEstudiantesArray[0].Nombres}: {listaEstudiantesArray[0].Telefonos[0]}");
+    }
+}
