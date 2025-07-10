@@ -1,0 +1,15 @@
+C:\Estructura-datos\github\semana06\ejemplo1\obj\Debug\net9.0\ejemplo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estructura-datos\github\semana06\ejemplo1\obj\Debug\net9.0\ejemplo1.AssemblyInfoInputs.cache
+C:\Estructura-datos\github\semana06\ejemplo1\obj\Debug\net9.0\ejemplo1.AssemblyInfo.cs
+C:\Estructura-datos\github\semana06\ejemplo1\obj\Debug\net9.0\ejemplo1.csproj.CoreCompileInputs.cache
+C:\Estructura-datos\github\semana06\ejemplo1\obj\Debug\net9.0\ejemplo1.sourcelink.json
+C:\Estructura-datos\github\semana06\ejemplo1\bin\Debug\net9.0\ejemplo1.exe
+C:\Estructura-datos\github\semana06\ejemplo1\bin\Debug\net9.0\ejemplo1.deps.json
+C:\Estructura-datos\github\semana06\ejemplo1\bin\Debug\net9.0\ejemplo1.runtimeconfig.json
+C:\Estructura-datos\github\semana06\ejemplo1\bin\Debug\net9.0\ejemplo1.dll
+C:\Estructura-datos\github\semana06\ejemplo1\bin\Debug\net9.0\ejemplo1.pdb
+C:\Estructura-datos\github\semana06\ejemplo1\obj\Debug\net9.0\ejemplo1.dll
+C:\Estructura-datos\github\semana06\ejemplo1\obj\Debug\net9.0\refint\ejemplo1.dll
+C:\Estructura-datos\github\semana06\ejemplo1\obj\Debug\net9.0\ejemplo1.pdb
+C:\Estructura-datos\github\semana06\ejemplo1\obj\Debug\net9.0\ejemplo1.genruntimeconfig.cache
+C:\Estructura-datos\github\semana06\ejemplo1\obj\Debug\net9.0\ref\ejemplo1.dll

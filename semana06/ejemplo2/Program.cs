@@ -1,34 +1,88 @@
-﻿// Dentro de la clase LinkedList:
+using System;
 
-public int SearchCount(int valueToSearch)
+public class Node
 {
-    if (Head == null)
+    public int Data;
+    public Node Next;
+
+    public Node(int data)
     {
-        Console.WriteLine($"El dato '{valueToSearch}' no fue encontrado. La lista está vacía.");
-        return 0; // No hay elementos para buscar
+        Data = data;
+        Next = null;
     }
+}
 
-    int count = 0;
-    Node current = Head; // Empezamos desde la cabeza de la lista
+public class ListaEnlazada
+{
+    public Node Head;
 
-    while (current != null)
+    // Método para agregar nodos al final de la lista
+    public void Insertar(int data)
     {
-        if (current.Data == valueToSearch)
+        Node nuevo = new Node(data);
+        if (Head == null)
         {
-            count++; // Si el dato coincide, incrementamos el contador
+            Head = nuevo;
         }
-        current = current.Next; // Pasamos al siguiente nodo
+        else
+        {
+            Node actual = Head;
+            while (actual.Next != null)
+            {
+                actual = actual.Next;
+            }
+            actual.Next = nuevo;
+        }
     }
 
-    if (count == 0)
+    // Método para contar cuántas veces aparece un valor en la lista
+    public int SearchCount(int valueToSearch)
     {
-        Console.WriteLine($"El dato '{valueToSearch}' no fue encontrado en la lista.");
-    }
-    else
-    {
-        // Opcional: Podrías imprimir aquí también si quieres confirmar el conteo.
-        // Console.WriteLine($"El dato '{valueToSearch}' fue encontrado {count} veces.");
-    }
+        if (Head == null)
+        {
+            Console.WriteLine($"El dato '{valueToSearch}' no fue encontrado. La lista está vacía.");
+            return 0;
+        }
 
-    return count; // Retornamos el número total de veces que se encontró el dato
+        int count = 0;
+        Node current = Head;
+
+        while (current != null)
+        {
+            if (current.Data == valueToSearch)
+            {
+                count++; // Si el dato coincide, incrementamos el contador
+            }
+            current = current.Next; // Pasamos al siguiente nodo
+        }
+
+        if (count == 0)
+        {
+            Console.WriteLine($"El dato '{valueToSearch}' no fue encontrado en la lista.");
+        }
+        else
+        {
+            Console.WriteLine($"El dato '{valueToSearch}' fue encontrado {count} veces.");
+        }
+
+        return count; // Retornamos el total encontrado
+    }
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        ListaEnlazada lista = new ListaEnlazada();
+
+        // Insertamos algunos valores
+        lista.Insertar(5);
+        lista.Insertar(3);
+        lista.Insertar(7);
+        lista.Insertar(3);
+        lista.Insertar(9);
+
+        // Buscamos cuántas veces aparece el número 3
+        lista.SearchCount(3);
+    }
 }
