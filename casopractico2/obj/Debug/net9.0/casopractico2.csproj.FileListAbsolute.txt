@@ -1,0 +1,15 @@
+C:\Estructura-datos\github\casopractico2\obj\Debug\net9.0\casopractico2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estructura-datos\github\casopractico2\obj\Debug\net9.0\casopractico2.AssemblyInfoInputs.cache
+C:\Estructura-datos\github\casopractico2\obj\Debug\net9.0\casopractico2.AssemblyInfo.cs
+C:\Estructura-datos\github\casopractico2\obj\Debug\net9.0\casopractico2.csproj.CoreCompileInputs.cache
+C:\Estructura-datos\github\casopractico2\obj\Debug\net9.0\casopractico2.sourcelink.json
+C:\Estructura-datos\github\casopractico2\bin\Debug\net9.0\casopractico2.exe
+C:\Estructura-datos\github\casopractico2\bin\Debug\net9.0\casopractico2.deps.json
+C:\Estructura-datos\github\casopractico2\bin\Debug\net9.0\casopractico2.runtimeconfig.json
+C:\Estructura-datos\github\casopractico2\bin\Debug\net9.0\casopractico2.dll
+C:\Estructura-datos\github\casopractico2\bin\Debug\net9.0\casopractico2.pdb
+C:\Estructura-datos\github\casopractico2\obj\Debug\net9.0\casopractico2.dll
+C:\Estructura-datos\github\casopractico2\obj\Debug\net9.0\refint\casopractico2.dll
+C:\Estructura-datos\github\casopractico2\obj\Debug\net9.0\casopractico2.pdb
+C:\Estructura-datos\github\casopractico2\obj\Debug\net9.0\casopractico2.genruntimeconfig.cache
+C:\Estructura-datos\github\casopractico2\obj\Debug\net9.0\ref\casopractico2.dll
