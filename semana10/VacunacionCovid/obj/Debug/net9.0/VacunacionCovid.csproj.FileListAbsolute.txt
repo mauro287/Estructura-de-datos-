@@ -1,0 +1,15 @@
+C:\Estructura-datos\github\semana10\VacunacionCovid\bin\Debug\net9.0\VacunacionCovid.exe
+C:\Estructura-datos\github\semana10\VacunacionCovid\bin\Debug\net9.0\VacunacionCovid.deps.json
+C:\Estructura-datos\github\semana10\VacunacionCovid\bin\Debug\net9.0\VacunacionCovid.runtimeconfig.json
+C:\Estructura-datos\github\semana10\VacunacionCovid\bin\Debug\net9.0\VacunacionCovid.dll
+C:\Estructura-datos\github\semana10\VacunacionCovid\bin\Debug\net9.0\VacunacionCovid.pdb
+C:\Estructura-datos\github\semana10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estructura-datos\github\semana10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.AssemblyInfoInputs.cache
+C:\Estructura-datos\github\semana10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.AssemblyInfo.cs
+C:\Estructura-datos\github\semana10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.csproj.CoreCompileInputs.cache
+C:\Estructura-datos\github\semana10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.sourcelink.json
+C:\Estructura-datos\github\semana10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.dll
+C:\Estructura-datos\github\semana10\VacunacionCovid\obj\Debug\net9.0\refint\VacunacionCovid.dll
+C:\Estructura-datos\github\semana10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.pdb
+C:\Estructura-datos\github\semana10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.genruntimeconfig.cache
+C:\Estructura-datos\github\semana10\VacunacionCovid\obj\Debug\net9.0\ref\VacunacionCovid.dll

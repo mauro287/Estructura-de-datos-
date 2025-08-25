@@ -48,7 +48,7 @@ namespace VacunacionCovid
             soloAstra.ExceptWith(vacunadosPfizer);
 
             // --- Mostrar resultados ---
-            Console.WriteLine("Resultados de la campaña de vacunación:\n");
+            Console.WriteLine(" Resultados de la campaña de vacunación:\n");
             Console.WriteLine($"1. No vacunados: {noVacunados.Count}");
             Console.WriteLine($"2. Con ambas vacunas: {ambasVacunas.Count}");
             Console.WriteLine($"3. Solo Pfizer: {soloPfizer.Count}");
@@ -65,4 +65,3 @@ namespace VacunacionCovid
         }
     }
 }
-

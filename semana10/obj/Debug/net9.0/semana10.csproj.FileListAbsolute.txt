@@ -1,0 +1,5 @@
+C:\Estructura-datos\github\semana10\obj\Debug\net9.0\semana10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estructura-datos\github\semana10\obj\Debug\net9.0\semana10.AssemblyInfoInputs.cache
+C:\Estructura-datos\github\semana10\obj\Debug\net9.0\semana10.AssemblyInfo.cs
+C:\Estructura-datos\github\semana10\obj\Debug\net9.0\semana10.csproj.CoreCompileInputs.cache
+C:\Estructura-datos\github\semana10\obj\Debug\net9.0\semana10.sourcelink.json
