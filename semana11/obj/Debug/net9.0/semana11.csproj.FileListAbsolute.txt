@@ -1,0 +1,15 @@
+C:\Estructura-datos\github\semana11\bin\Debug\net9.0\semana11.exe
+C:\Estructura-datos\github\semana11\bin\Debug\net9.0\semana11.deps.json
+C:\Estructura-datos\github\semana11\bin\Debug\net9.0\semana11.runtimeconfig.json
+C:\Estructura-datos\github\semana11\bin\Debug\net9.0\semana11.dll
+C:\Estructura-datos\github\semana11\bin\Debug\net9.0\semana11.pdb
+C:\Estructura-datos\github\semana11\obj\Debug\net9.0\semana11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estructura-datos\github\semana11\obj\Debug\net9.0\semana11.AssemblyInfoInputs.cache
+C:\Estructura-datos\github\semana11\obj\Debug\net9.0\semana11.AssemblyInfo.cs
+C:\Estructura-datos\github\semana11\obj\Debug\net9.0\semana11.csproj.CoreCompileInputs.cache
+C:\Estructura-datos\github\semana11\obj\Debug\net9.0\semana11.sourcelink.json
+C:\Estructura-datos\github\semana11\obj\Debug\net9.0\semana11.dll
+C:\Estructura-datos\github\semana11\obj\Debug\net9.0\refint\semana11.dll
+C:\Estructura-datos\github\semana11\obj\Debug\net9.0\semana11.pdb
+C:\Estructura-datos\github\semana11\obj\Debug\net9.0\semana11.genruntimeconfig.cache
+C:\Estructura-datos\github\semana11\obj\Debug\net9.0\ref\semana11.dll
