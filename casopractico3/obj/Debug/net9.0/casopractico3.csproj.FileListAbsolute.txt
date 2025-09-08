@@ -1,0 +1,15 @@
+C:\Estructura-datos\github\casopractico3\bin\Debug\net9.0\casopractico3.exe
+C:\Estructura-datos\github\casopractico3\bin\Debug\net9.0\casopractico3.deps.json
+C:\Estructura-datos\github\casopractico3\bin\Debug\net9.0\casopractico3.runtimeconfig.json
+C:\Estructura-datos\github\casopractico3\bin\Debug\net9.0\casopractico3.dll
+C:\Estructura-datos\github\casopractico3\bin\Debug\net9.0\casopractico3.pdb
+C:\Estructura-datos\github\casopractico3\obj\Debug\net9.0\casopractico3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estructura-datos\github\casopractico3\obj\Debug\net9.0\casopractico3.AssemblyInfoInputs.cache
+C:\Estructura-datos\github\casopractico3\obj\Debug\net9.0\casopractico3.AssemblyInfo.cs
+C:\Estructura-datos\github\casopractico3\obj\Debug\net9.0\casopractico3.csproj.CoreCompileInputs.cache
+C:\Estructura-datos\github\casopractico3\obj\Debug\net9.0\casopractico3.sourcelink.json
+C:\Estructura-datos\github\casopractico3\obj\Debug\net9.0\casopractico3.dll
+C:\Estructura-datos\github\casopractico3\obj\Debug\net9.0\refint\casopractico3.dll
+C:\Estructura-datos\github\casopractico3\obj\Debug\net9.0\casopractico3.pdb
+C:\Estructura-datos\github\casopractico3\obj\Debug\net9.0\casopractico3.genruntimeconfig.cache
+C:\Estructura-datos\github\casopractico3\obj\Debug\net9.0\ref\casopractico3.dll
